@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Toko Sepatu Pria</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string-array name="Sepatu">
+        <item>Nike Blazers High</item>
+        <item>Nike Air Jordan 1 Low</item>
+        <item>Nike Airmax 98</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.8</item>
+        <item>4.8</item>
+        <item>4.8</item>
+
+    </string-array>
+    <string-array name="harga">
+        <item>Rp2.000.000</item>
+        <item>Rp1.800.000</item>
+        <item>Rp2.500.000</item>
+    </string-array>
+</resources>
